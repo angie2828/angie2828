@@ -1,10 +1,5 @@
 ### Hi there 👋Angelita Fuentes
 
-<!--
-**angie2828/angie2828** 
-
--->
-
 <div>
   
 <br />
