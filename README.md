@@ -1,4 +1,6 @@
-# Hello there 👋Angelita Fuentes
+# Hello there 👋, Angelita Fuentes
+
+## I'm a Student, Financial Advisor & Full Marathoner
 <div>
   
 <br />
