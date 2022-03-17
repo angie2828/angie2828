@@ -1,9 +1,8 @@
 # Hello there 👋, Angelita Fuentes
-
 ## I'm a Student, Financial Advisor & Full Marathoner
+
 <div>
-  
-<br />
+ <br />
 <p>
 
 - 🔭 I’m currently working on ... A Bootcamp Course with the University of Miami
