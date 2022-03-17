@@ -4,7 +4,7 @@
 **angie2828/angie2828** 
 
 -->
-<a href="https://https://www.linkedin.com/in/angelita-fuentes-06a660b2/">
+<a href="https://www.linkedin.com/in/angelita-fuentes-06a660b2/">
   <img align="left" alt="AngelitaFuentes LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
