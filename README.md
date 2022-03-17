@@ -1,7 +1,7 @@
 ### Hi there 👋Angelita Fuentes
 
 <!--
-**angie2828/angie2828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**angie2828/angie2828** 
 
 
 
@@ -15,11 +15,11 @@
 <br />
 <p>
 
-- 🔭 I’m currently working on ... A Bootcamp course with the University of Miami.**
-- 🌱 I’m currently learning ...Python, Machine Learning & Blockchain.**
-- 👯 I’m looking to collaborate in a Team Setting.**
+- 🔭 I’m currently working on ... A Bootcamp course with the University of Miami.
+- 🌱 I’m currently learning ...Python, Machine Learning & Blockchain.
+- 👯 I’m looking to collaborate in a Team Setting.
 - 📫 How to reach me: ... LinkedIn.**
-- ⚡ Inspirational quote: ... Happiness is a choice.**
+- ⚡ Inspirational quote: ... Happiness is a choice.
 
 </h4>
 </div>
